@@ -1,14 +1,38 @@
 import styles from "../styles/Home.module.css";
-import Link from 'next/link'
+import Button from "@mui/material/Button";
+import Link from "next/link";
 
 export default function Home() {
+  const yearSets = {
+    2023: ["ONE"],
+    2022: ["NEO", "SNC", "DMU", "WAR"],
+    2021: ["KHM", "STX", "AFR", "MID", "VOW"],
+    2020: ["THB", "IKO", "M21", "ZNR"],
+    2019: ["RNA", "WAR", "M20", "ELD"],
+    2018: ["RIX", "DOM", "M19", "GRN"],
+  };
+
   return (
     <>
-      <ul>
-        <li>
-          <Link href="/sets/one">ONE</Link>
-        </li>
-      </ul>
+      {Object.keys(yearSets).map((year) => (
+        <div style={{marginTop: 10}}>
+          <h1>{year}</h1>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              alignItems: "center",
+              justifyContent: "space-around",
+            }}
+          >
+            {yearSets[year].map((set) => (
+              <Link href={"/sets/" + set.toLowerCase()}>
+                <Button variant="contained">{set}</Button>
+              </Link>
+            ))}
+          </div>
+        </div>
+      ))}
     </>
   );
 }

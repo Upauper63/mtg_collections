@@ -374,7 +374,7 @@
         ],
         "rarity": "mythic",
         "image_uris": "https://cards.scryfall.io/normal/front/2/3/23afca1a-62a8-497f-994f-ceb479d020ba.jpg?1675957074",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -1032,6 +1032,6 @@
         "color_identity": [],
         "rarity": "rare",
         "image_uris": "https://cards.scryfall.io/normal/front/2/9/29c91aad-bf33-448e-b122-65940fb2e33b.jpg?1675957280",
-        "is_collected": false
+        "is_collected": true
     }
 ]

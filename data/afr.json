@@ -1,0 +1,1048 @@
+[
+    {
+        "multiverse_ids": [
+            527291
+        ],
+        "number": 4,
+        "name": "The Book of Exalted Deeds",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.jpg?1632261616",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527295
+        ],
+        "number": 8,
+        "name": "Dancing Sword",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/9/c/9c3d7824-1297-408c-a11f-0622cab9c4c3.jpg?1627701492",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527302
+        ],
+        "number": 15,
+        "name": "Flumph",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1627701697",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527304
+        ],
+        "number": 17,
+        "name": "Grand Master of Flowers",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/8/c/8ca4ffff-404e-4e8e-8fd6-4e64d4828fc7.jpg?1627701766",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527305
+        ],
+        "number": 18,
+        "name": "Guardian of Faith",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/0/8/08e3dda1-a1d3-48c9-8c81-da7eae20ac8a.jpg?1627701793",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527307
+        ],
+        "number": 20,
+        "name": "Icingdeath, Frost Tyrant",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/2/6/26b0e68a-9d4e-42ea-8dac-c47cbed0c6ad.jpg?1630107263",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527310
+        ],
+        "number": 23,
+        "name": "Loyal Warhound",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/f/4/f408c5e4-e18d-4e4d-959a-f41df4c3019c.jpg?1627701994",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527314
+        ],
+        "number": 27,
+        "name": "Nadaar, Selfless Paladin",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/8/7/878a0d8c-11c1-4c65-9051-78e036ac496f.jpg?1627702135",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527315
+        ],
+        "number": 28,
+        "name": "Oswald Fiddlebender",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/b/bba1650f-eddf-49a9-820e-489cb8d5b6fa.jpg?1627702172",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527316
+        ],
+        "number": 29,
+        "name": "Paladin Class",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/5/b/5bf81fb1-7992-4ae9-b1a8-80c31579a2bf.jpg?1627702202",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527326
+        ],
+        "number": 39,
+        "name": "Teleportation Circle",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/9/0/90140bc0-4a9c-4422-b07c-3400c7ccde56.jpg?1627702592",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527335
+        ],
+        "number": 48,
+        "name": "The Blackstaff of Waterdeep",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.jpg?1627702938",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527340
+        ],
+        "number": 53,
+        "name": "Demilich",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/0/a/0a1351ed-b9df-4a6d-aaa1-ec6db673d265.jpg?1639436596",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527343
+        ],
+        "number": 56,
+        "name": "Dragon Turtle",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/d/4/d436ba80-386f-40ad-b0ca-a98cc50de964.jpg?1627703189",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527347
+        ],
+        "number": 60,
+        "name": "Grazilaxx, Illithid Scholar",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/9/8/98cca453-4611-4f3d-85d8-d74d260c7598.jpg?1627703337",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527349
+        ],
+        "number": 62,
+        "name": "Iymrith, Desert Doom",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/c/3/c3e6025d-d273-4ae4-9929-5e588612f1b3.jpg?1627703415",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527350
+        ],
+        "number": 63,
+        "name": "Mind Flayer",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/c/2/c29ac797-a186-4224-94e1-9bb9dca4b029.jpg?1627703456",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527351
+        ],
+        "number": 64,
+        "name": "Mordenkainen",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/2/f/2fa5e4c7-12fa-4ec4-bd4b-752e367306c7.jpg?1627703483",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527365
+        ],
+        "number": 78,
+        "name": "Tasha's Hideous Laughter",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?1627703920",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527367
+        ],
+        "number": 80,
+        "name": "True Polymorph",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/0/4/04a1f384-9266-425c-b739-09d74871fc7b.jpg?1627703986",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527369
+        ],
+        "number": 82,
+        "name": "Wizard's Spellbook",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/6/b6ed0a4c-0234-4341-8dcb-5eea6a9632e7.jpg?1627704085",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527373
+        ],
+        "number": 86,
+        "name": "Yuan-Ti Malison",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/0/f/0f51afd9-7093-4aa3-ad5b-7383684d6285.jpg?1627704255",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527374
+        ],
+        "number": 87,
+        "name": "Acererak the Archlich",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/d/d/dd52d0bd-3abd-401c-9f56-ee911613da3b.jpg?1627704283",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527375
+        ],
+        "number": 88,
+        "name": "Asmodeus the Archfiend",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/a/5/a5e6b864-58e7-43b9-9d79-1d0361340960.jpg?1627704325",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527378
+        ],
+        "number": 91,
+        "name": "The Book of Vile Darkness",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1627704426",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527387
+        ],
+        "number": 100,
+        "name": "Ebondeath, Dracolich",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/e/6/e6b3f460-92ba-4af0-aad9-cf86615d4177.jpg?1627704720",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527391
+        ],
+        "number": 104,
+        "name": "Forsworn Paladin",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/4/a/4acaf396-f950-42da-85ab-149ffb31fee6.jpg?1627704845",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527392
+        ],
+        "number": 105,
+        "name": "Gelatinous Cube",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/1/c/1c472e70-300c-4881-86e7-c5ca690ab9b6.jpg?1627704890",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527399
+        ],
+        "number": 112,
+        "name": "Lolth, Spider Queen",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1628185302",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527408
+        ],
+        "number": 121,
+        "name": "Sphere of Annihilation",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/3/d/3d2315a9-584b-4c59-af43-dd38bcb6c322.jpg?1627705427",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527411
+        ],
+        "number": 124,
+        "name": "Vorpal Sword",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/7/a/7adbe69f-326d-4b4f-850f-c57a1860d17c.jpg?1627705519",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527413
+        ],
+        "number": 126,
+        "name": "Westgate Regent",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1627705570",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527414
+        ],
+        "number": 127,
+        "name": "Wight",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/f/6/f62abe9c-7599-433b-a964-10d6641f3586.jpg?1627705598",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527425
+        ],
+        "number": 138,
+        "name": "Delina, Wild Mage",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/e/8/e87459aa-af8f-4bd2-a310-151353083a2e.jpg?1665157404",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527430
+        ],
+        "number": 143,
+        "name": "Flameskull",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/3/2/32d3f766-4098-4023-9a23-e9ff6722b66d.jpg?1627706222",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527434
+        ],
+        "number": 147,
+        "name": "Hobgoblin Bandit Lord",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/0/9/09e9dc36-f2d8-4384-98cb-e44c00b02433.jpg?1627706357",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527438
+        ],
+        "number": 151,
+        "name": "Inferno of the Star Mounts",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/c/7/c788c6a6-20d9-4a93-a898-330b085226c4.jpg?1627767538",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527442
+        ],
+        "number": 155,
+        "name": "Meteor Swarm",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/8/b8f5e669-4e69-4763-bbb9-e9685bde912c.jpg?1627706580",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527443
+        ],
+        "number": 156,
+        "name": "Minion of the Mighty",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/f/f/ffd0a827-778b-48c3-bb85-4b4acef351d6.jpg?1627706624",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527444
+        ],
+        "number": 157,
+        "name": "Orb of Dragonkind",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/9/a/9a1c2cdd-353c-4747-bf0e-b995dd37ffca.jpg?1627706657",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527453
+        ],
+        "number": 166,
+        "name": "Wish",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/3/e/3ed021d2-e2bc-44b3-8934-4bd02e0a42ec.jpg?1627706920",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527454
+        ],
+        "number": 167,
+        "name": "Xorn",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1627706949",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527458
+        ],
+        "number": 171,
+        "name": "Zalto, Fire Giant Duke",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/9/c/9c6da066-accb-4c09-9acb-4de263dadad3.jpg?1627707083",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527459
+        ],
+        "number": 172,
+        "name": "Zariel, Archduke of Avernus",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/7/b/7be5b866-d479-4698-98b2-87a973f6b8f6.jpg?1627707116",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527463
+        ],
+        "number": 176,
+        "name": "Circle of Dreams Druid",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/e/be6fdec0-a2c4-4da2-ae14-961185eaee66.jpg?1627707261",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527468
+        ],
+        "number": 181,
+        "name": "Ellywick Tumblestrum",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1627707422",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527471
+        ],
+        "number": 184,
+        "name": "Froghemoth",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/7/2/728e9567-2585-4c03-99a5-3e84fd8044d2.jpg?1627707629",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527477
+        ],
+        "number": 190,
+        "name": "Instrument of the Bards",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/d/5/d58486dc-3e78-4649-89c7-46f6210ff80f.jpg?1627707828",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527480
+        ],
+        "number": 193,
+        "name": "Long Rest",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/0/6/0615e930-3b6b-4b2f-a09c-0730d491545c.jpg?1627707904",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527483
+        ],
+        "number": 196,
+        "name": "Ochre Jelly",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/9/f/9f23cfb7-c6b6-4f04-abba-5b2a6117ea12.jpg?1627708063",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527484
+        ],
+        "number": 197,
+        "name": "Old Gnawbone",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/7/7/77ceba8b-de19-4db8-b5a7-f5df49bf241f.jpg?1627708100",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527489
+        ],
+        "number": 202,
+        "name": "Ranger Class",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1627708261",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527494
+        ],
+        "number": 207,
+        "name": "The Tarrasque",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/8/a/8a26fa15-d81f-4152-ae33-e91aa276b3fc.jpg?1627708455",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527496
+        ],
+        "number": 209,
+        "name": "Varis, Silverymoon Ranger",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/e/3/e3bd3ea9-f06d-4df7-8b8d-ac6a0e591b09.jpg?1627708517",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527498
+        ],
+        "number": 211,
+        "name": "Werewolf Pack Leader",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1627708570",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527503
+        ],
+        "number": 216,
+        "name": "Adult Gold Dragon",
+        "color_identity": [
+            "R",
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/6/7/67a76010-d932-4727-8b5e-b8e2d14e1362.jpg?1627708716",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527504
+        ],
+        "number": 217,
+        "name": "Bard Class",
+        "color_identity": [
+            "G",
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1627708744",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527507
+        ],
+        "number": 220,
+        "name": "Drizzt Do'Urden",
+        "color_identity": [
+            "G",
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.jpg?1627708841",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527509
+        ],
+        "number": 222,
+        "name": "Fighter Class",
+        "color_identity": [
+            "R",
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1627708909",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527514
+        ],
+        "number": 227,
+        "name": "Minsc, Beloved Ranger",
+        "color_identity": [
+            "G",
+            "R",
+            "W"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1655249958",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527515
+        ],
+        "number": 228,
+        "name": "Monk Class",
+        "color_identity": [
+            "U",
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1627709117",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527516
+        ],
+        "number": 229,
+        "name": "Orcus, Prince of Undeath",
+        "color_identity": [
+            "B",
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/9/1/91f5c6d3-fb04-4a2e-87b6-9ed2314085a8.jpg?1627709257",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527517
+        ],
+        "number": 230,
+        "name": "Rogue Class",
+        "color_identity": [
+            "B",
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/0/7/0727f65b-cfbe-47d5-87c6-239cf8d93ca6.jpg?1627709289",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527519
+        ],
+        "number": 232,
+        "name": "Skeletal Swarming",
+        "color_identity": [
+            "B",
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/3/7/3768ac68-0d87-4f99-aa77-2d009df0a567.jpg?1627709385",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527520
+        ],
+        "number": 233,
+        "name": "Sorcerer Class",
+        "color_identity": [
+            "R",
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/f/7/f754b385-a28d-48de-a91f-2b4f33cc47f7.jpg?1627709409",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527522
+        ],
+        "number": 235,
+        "name": "Tiamat",
+        "color_identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1627709478",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527524
+        ],
+        "number": 237,
+        "name": "Triumphant Adventurer",
+        "color_identity": [
+            "B",
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/2/1/214d3167-4eea-42a1-a464-ddff59843142.jpg?1627709583",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527525
+        ],
+        "number": 238,
+        "name": "Volo, Guide to Monsters",
+        "color_identity": [
+            "G",
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/c/9/c9ae01f9-7461-47b4-aa1e-93bd6ff1bf9e.jpg?1627709617",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527526
+        ],
+        "number": 239,
+        "name": "Xanathar, Guild Kingpin",
+        "color_identity": [
+            "B",
+            "U"
+        ],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/5/b/5bc58050-a615-4090-9cf5-cd49ccb4e2c6.jpg?1627709647",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527528
+        ],
+        "number": 241,
+        "name": "The Deck of Many Things",
+        "color_identity": [],
+        "rarity": "mythic",
+        "image_uris": "https://cards.scryfall.io/normal/front/f/e/feddbdc6-0757-43cb-bb41-dc83c6cf42ea.jpg?1627709701",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527530
+        ],
+        "number": 243,
+        "name": "Eye of Vecna",
+        "color_identity": [],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/9/b91e2431-500e-441a-881d-094ebef62283.jpg?1627709761",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527533
+        ],
+        "number": 246,
+        "name": "Hand of Vecna",
+        "color_identity": [],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/d/d/ddd0beb7-80dc-4665-bab2-747c795d97db.jpg?1627709846",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527539
+        ],
+        "number": 252,
+        "name": "Treasure Chest",
+        "color_identity": [],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/6/e/6ecbeb07-0f45-49bf-9a12-f4ca09969122.jpg?1627710070",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527540
+        ],
+        "number": 253,
+        "name": "Cave of the Frost Dragon",
+        "color_identity": [
+            "W"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/d/bdb41396-5008-4a5f-92ca-54ecac42e926.jpg?1627710109",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527541
+        ],
+        "number": 254,
+        "name": "Den of the Bugbear",
+        "color_identity": [
+            "R"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/f/2/f231caf8-56c0-4719-a90d-5e5efbee3148.jpg?1627710135",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527542
+        ],
+        "number": 255,
+        "name": "Dungeon Descent",
+        "color_identity": [],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/f/4/f4cccdbc-f4f4-42b6-9747-6ef703ff949a.jpg?1627710168",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527544
+        ],
+        "number": 257,
+        "name": "Hall of Storm Giants",
+        "color_identity": [
+            "U"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/f/bf8f052d-8840-4905-a807-9a305f4fd8f7.jpg?1627710259",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527545
+        ],
+        "number": 258,
+        "name": "Hive of the Eye Tyrant",
+        "color_identity": [
+            "B"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/9/e/9eb391dc-0378-4793-a5de-899b09792a4b.jpg?1627710306",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527546
+        ],
+        "number": 259,
+        "name": "Lair of the Hydra",
+        "color_identity": [
+            "G"
+        ],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/b/6/b670bb0f-680f-4036-bdb6-ac73e866a398.jpg?1627710336",
+        "is_collected": false
+    },
+    {
+        "multiverse_ids": [
+            527548
+        ],
+        "number": 261,
+        "name": "Treasure Vault",
+        "color_identity": [],
+        "rarity": "rare",
+        "image_uris": "https://cards.scryfall.io/normal/front/a/0/a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4.jpg?1627710405",
+        "is_collected": false
+    }
+]

@@ -1,6 +1,6 @@
 import React from "react";
 import Grid from "@mui/material/Grid";
-import Data from "/data/one.json";
+import Data from "/data/neo.json";
 import Button from "@mui/material/Button";
 import Link from 'next/link'
 
