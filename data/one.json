@@ -218,7 +218,7 @@
         ],
         "rarity": "mythic",
         "image_uris": "https://cards.scryfall.io/normal/front/f/1/f1d4b157-2c77-4355-8c65-78dec9d44c85.jpg?1675956992",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -244,7 +244,7 @@
         ],
         "rarity": "rare",
         "image_uris": "https://cards.scryfall.io/normal/front/8/6/86b0edaf-8cfd-4508-9554-6f0fddc2dfc4.jpg?1675957007",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -530,7 +530,7 @@
         ],
         "rarity": "mythic",
         "image_uris": "https://cards.scryfall.io/normal/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg?1675957150",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -569,7 +569,7 @@
         ],
         "rarity": "rare",
         "image_uris": "https://cards.scryfall.io/normal/front/d/1/d1b032e3-14e3-48ba-ab8a-d2b4f8d31a7d.jpg?1675957177",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -682,7 +682,7 @@
         ],
         "rarity": "rare",
         "image_uris": "https://cards.scryfall.io/normal/front/4/1/4152a5a8-e5a1-46b0-8f75-b9ac341da474.jpg?1675957198",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -724,7 +724,7 @@
         ],
         "rarity": "rare",
         "image_uris": "https://cards.scryfall.io/normal/front/e/1/e1329ad9-5989-4920-b17b-943b9b4a0cd9.jpg?1675957200",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -766,7 +766,7 @@
         ],
         "rarity": "rare",
         "image_uris": "https://cards.scryfall.io/normal/front/b/2/b298cf34-7aa5-4f97-a86c-7f28d2113b87.jpg?1675957207",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -794,7 +794,7 @@
         ],
         "rarity": "rare",
         "image_uris": "https://cards.scryfall.io/normal/front/6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1675957216",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
@@ -932,7 +932,7 @@
         ],
         "rarity": "rare",
         "image_uris": "https://cards.scryfall.io/normal/front/1/4/1441fba4-fe06-4b5f-a103-aa6cf59a3859.jpg?1675957263",
-        "is_collected": false
+        "is_collected": true
     },
     {
         "multiverse_ids": [
