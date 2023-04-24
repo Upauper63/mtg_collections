@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Home() {
   const yearSets = {
-      2023: ["ONE"],
+      2023: ["ONE", "MOM"],
       2022: ["NEO", "SNC", "DMU", "BRO"],
       2021: ["KHM", "STX", "AFR", "MID", "VOW"],
       2020: ["THB", "IKO", "M21", "ZNR"],
